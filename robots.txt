@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://retro881.github.io/solix-preview/sitemap.xml
